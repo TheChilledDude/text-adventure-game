@@ -1,4 +1,4 @@
-# text-adventure-game
+# Text Adventure Game
 
 ## A text based choice game built using Python where the player enters their name and then makes decisions that affects how the story unfolds.
 
@@ -26,9 +26,11 @@ Each choice gives a different ending.
 In grade 10, the user chooses between 2 subjects:
    - History
    - Physics
+   - 
 If they choose History, they then choose whether to accept an AP English offer:
    - yes
    - no
+
 At the end, the program thanks the user for playing and gives them the option to play again.
 
 ## Key Concepts Demonstrated
@@ -57,9 +59,9 @@ Python 3
    
 ## Notes
 
-*All inputs are case-insensitive. 
-*Players can type either the number(e.g. 1) or the full name(e.g. "crawford sandton").
-* Invalid choices will end the game.
+- All inputs are case-insensitive. 
+- Players can type either the number(e.g. 1) or the full name(e.g. "crawford sandton").
+- Invalid choices will end the game.
 
 ## Future Improvements
 
