@@ -15,8 +15,8 @@ The game simulates a school journey where the player decides which high school t
 
 ## Branch 1: Crawford Sandton
 
-After one year, school fees are too high.
-The user chooses between:
+After one year, the school fees are too high.
+The user must now choose between:
    - St. Davids
    - Hyde Park High School
 Each choice gives a different ending.
@@ -26,8 +26,8 @@ Each choice gives a different ending.
 In grade 10, the user chooses between 2 subjects:
    - History
    - Physics
-   - 
-If they choose History, they then choose whether to accept an AP English offer:
+     
+If they choose History, they then choose whether or not they'll accept an AP English offer due to their proficient essay writing ability:
    - yes
    - no
 
