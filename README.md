@@ -19,7 +19,7 @@ After one year, the school fees are too high.
 The user must now choose between:
    - St. Davids
    - Hyde Park High School
-   - 
+     
 Each choice gives a different ending.
 
 ## Branch 2: Hyde Park High School
