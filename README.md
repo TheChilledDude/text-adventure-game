@@ -26,8 +26,9 @@ Each choice gives a different ending.
 In grade 10, the user chooses between 2 subjects:
    - History
    - Physics
-     
-If they choose History, they then choose whether or not they'll accept an AP English offer due to their proficient essay writing ability:
+   - 
+If they choose History, they then decide whether to accept an AP English offer based on their strong essay-writing ability:
+    
    - yes
    - no
 
