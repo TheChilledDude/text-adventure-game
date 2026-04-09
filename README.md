@@ -19,6 +19,7 @@ After one year, the school fees are too high.
 The user must now choose between:
    - St. Davids
    - Hyde Park High School
+   - 
 Each choice gives a different ending.
 
 ## Branch 2: Hyde Park High School
@@ -26,7 +27,7 @@ Each choice gives a different ending.
 In grade 10, the user chooses between 2 subjects:
    - History
    - Physics
-   - 
+
 If they choose History, they then decide whether to accept an AP English offer based on their strong essay-writing ability:
     
    - yes
